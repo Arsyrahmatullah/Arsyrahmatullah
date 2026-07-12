@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Arsy! 👋
 
-<!--
-**Arsyrahmatullah/Arsyrahmatullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Geophysical Engineer fresh from ITB (2024) who got hooked on CCS monitoring
+after spending my thesis simulating CO₂ injection in Central Sulawesi — and somehow
+that rabbit hole led me to Python, rock physics, and building things from scratch.
 
-Here are some ideas to get you started:
+Currently trying to bridge the gap between geophysics and data science,
+because seismic data deserves better tools. 🌍
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔬 Research Interests
+
+- Carbon Capture and Storage (CCS)
+- Time-Lapse (4D) Seismic Monitoring
+- Seismic Imaging & Subsurface Characterization
+- Rock Physics
+- Borehole Seismology & Distributed Acoustic Sensing (DAS)
+- Machine Learning for Geophysics
+
+## 💻 Tech
+
+- Python (NumPy, SciPy, Matplotlib, Streamlit, lasio)
+- Petrel · NORSAR 
+
+## 🛠️ Building
+
+- Open-source CCS monitoring toolkit → [ccs-monitoring](https://github.com/Arsyrahmatullah/ccs-monitoring) 
+
+---
+
+## 📖 Currently
+
+- Reading: *On the design of ultra-sparse seismic surveys for monitoring CO₂ storage sites using FWI*
+- Taking: Machine Learning Essentials for Seismic Interpretation — Geophysical Insights (Dr. Tom Smith)
+
+---
+
+## 🌐 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/arsyrahmatullah)
+- 📧 arsyrahmatullah@email.com
+
+Always up to talk about seismic data, CO₂ storage, or why Python makes geophysics
+more fun than it has any right to be. 
