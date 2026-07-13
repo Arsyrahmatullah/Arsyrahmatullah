@@ -1,6 +1,6 @@
 # Hi, I'm Arsy! 👋
 
-I'm a Geophysical Engineer fresh from ITB (2024) who got hooked on CCS monitoring
+I'm a Geophysical Engineer fresh from Institut Teknologi Bandung (2025) who got hooked on CCS monitoring
 after spending my thesis simulating CO₂ injection in Central Sulawesi and somehow
 that rabbit hole led me to Python, rock physics, and building things from scratch.
 
