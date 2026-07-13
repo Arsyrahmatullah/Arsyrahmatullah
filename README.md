@@ -39,7 +39,7 @@ because seismic data deserves better tools. 🌍
 ## 🌐 Let's Connect
 
 - 💼 [LinkedIn](https://linkedin.com/in/arsyrahmatullah)
-- 📧 arsyrahmatullah@email.com
+- 📧 arsyrahmatullah@gmail.com
 
 Always up to talk about seismic data, CO₂ storage, or why Python makes geophysics
 more fun than it has any right to be. 
