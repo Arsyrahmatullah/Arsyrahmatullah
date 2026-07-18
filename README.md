@@ -26,6 +26,8 @@ because seismic data deserves better tools. 🌍
 ## 🛠️ Building
 
 - Open-source CCS monitoring toolkit → [ccs-monitoring](https://github.com/Arsyrahmatullah/ccs-monitoring) 
+- CO₂ storage site suitability screening tool → [ccs-screening](https://github.com/Arsyrahmatullah/ccs-screening)
+- Vertical Seismic Profiling (VSP) analysis library for CCS → [ccs-VSP-suite](https://github.com/Arsyrahmatullah/ccs-VSP-suite)
 
 ---
 
@@ -42,4 +44,4 @@ because seismic data deserves better tools. 🌍
 - 📧 arsyrahmatullah@gmail.com
 
 Always up to talk about seismic data, CO₂ storage, or why Python makes geophysics
-more fun than it has any right to be. 
+more fun than it has any right to be.
